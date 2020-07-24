@@ -37,3 +37,7 @@ cd application.windows[version]
 PaintPro.exe
 ```
 In which [version] will be either '32' or '64' depending on what file you downloaded (should match file name).
+
+## Notes
+
+I created this code before I knew about how to implement object-oriented programming in Java. OOP might be implemented in the future.
